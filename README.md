@@ -5,17 +5,17 @@
 
 **主窗口**
 
-![主窗口](images/%E4%B8%BB%E7%AA%97%E5%8F%A3.png)
+![主窗口](./images/%E4%B8%BB%E7%AA%97%E5%8F%A3.png)
 
 
 **右键菜单**
 
-![右键菜单](images/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95.png)
+![右键菜单](./images/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95.png)
 
 
 **导入通知**
 
-![导入通知](images/%E5%AF%BC%E5%85%A5%E9%80%9A%E7%9F%A5.png)
+![导入通知](./images/%E5%AF%BC%E5%85%A5%E9%80%9A%E7%9F%A5.png)
 
 ## 命令的使用方法
 

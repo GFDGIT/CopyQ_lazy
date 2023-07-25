@@ -5,21 +5,21 @@
 
 **主窗口**
 
-![](images/主窗口.png)
+![](images/main-window.png)
 
 **简洁模式**
 
-![](images/简洁模式.png)
+![](images/pure-mode.png)
 
 
 **右键菜单**
 
-![](images/右键菜单.png)
+![](images/menu.png)
 
 
 **导入通知**
 
-![](images/导入通知.png)
+![](images/import-notification.png)
 
 ## 功能增强
 

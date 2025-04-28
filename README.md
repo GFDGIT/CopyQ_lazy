@@ -62,3 +62,7 @@
 [CopyQ官方命令仓库](https://github.com/hluk/copyq-commands)
 
 [暗黑主题](https://github.com/dracula/copyq) 来自 `Dracula Theme`
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GFDGIT/CopyQ_lazy&type=Date)](https://www.star-history.com/#GFDGIT/CopyQ_lazy&Date)
